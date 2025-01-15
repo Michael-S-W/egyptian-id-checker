@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/egyptian-id-checker/static/css/main.d28a61ff.css",
+    "main.js": "/egyptian-id-checker/static/js/main.36758b8b.js",
+    "index.html": "/egyptian-id-checker/index.html",
+    "main.d28a61ff.css.map": "/egyptian-id-checker/static/css/main.d28a61ff.css.map",
+    "main.36758b8b.js.map": "/egyptian-id-checker/static/js/main.36758b8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28a61ff.css",
+    "static/js/main.36758b8b.js"
+  ]
+}
